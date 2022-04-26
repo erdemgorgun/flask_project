@@ -1,5 +1,5 @@
 # Flask Web Application
-## 1. Introduction
+## 1. How it is used
 
 This is a preliminary web application to show customer and port details from around the world. 
 
